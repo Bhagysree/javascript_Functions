@@ -49,4 +49,3 @@ function div(a, b){
 }
 div(10, 5)
 div()
-
